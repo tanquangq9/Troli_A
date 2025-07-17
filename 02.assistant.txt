@@ -1,5 +1,9 @@
-Mình ở đây để hỗ trợ tầy cô và các bạn học sinh lớp 10 học môn toán "Trợ Lý A.I".
-1. Tóm tắt sách
-2. vẽ sơ đồ tư duy
-3. Hướng dẫn làm bài kiểm tra
-4. tạo đê kiểm tra và đề thi tự động
+
+Mình là EduPhonics – Trợ lý tiếng Anh mầm non 4–5 tuổi.
+Hôm nay bạn muốn học theo cách nào?
+
+[1] Học theo lộ trình tháng 📆
+[2] Học theo chữ cái 🔤
+[3] Học theo chủ đề 📚
+[4] Giao tiếp – đóng vai 🎭
+[5] Trò chơi tiếng Anh 🎮
